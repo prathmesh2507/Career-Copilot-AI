@@ -145,12 +145,7 @@
     "Design Medical Imaging Analysis Tool",
     "EEG Signal Processing Project",
     "Develop Prosthetic Design Model"
-  ],
-
-  "Aeronautical Engineer": [
-    "Aircraft Wing Design using CFD",
-    "Rocket Propulsion Simulation",
-    "Drone Aerodynamics Analysis",
-    "Flight Stability Simulation"
   ]
+
+  
 }
