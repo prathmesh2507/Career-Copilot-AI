@@ -2,7 +2,7 @@ class SuggestionEngine:
     """
     Generate AI-like suggestions for resume improvement
     """
-
+# Suggestions
     def generate(self, target_role, missing_skills, match_percentage):
 
         suggestions = []
