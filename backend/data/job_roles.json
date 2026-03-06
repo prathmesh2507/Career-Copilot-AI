@@ -238,7 +238,6 @@
   "Biomedical Engineering": {
     "Biomedical Engineer": {
       "required_skills": [
-        "medical instrumentation",
         "biomechanics",
         "signal processing",
         "embedded systems"
